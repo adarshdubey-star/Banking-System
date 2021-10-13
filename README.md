@@ -1,3 +1,3 @@
 # Basic-banking-system
-----> A basic Banking System for transaction of money.
+----> A Basic Banking System for transaction of money.
 
